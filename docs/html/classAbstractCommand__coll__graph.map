@@ -1,0 +1,5 @@
+<map id="AbstractCommand" name="AbstractCommand">
+<area shape="rect" id="node2" href="$classCommand.html" title="Object for the execute and undo commnands of the application. " alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node3" href="$classPixel.html" title="Object for each pixel that is drawn on the canvas. " alt="" coords="112,5,163,32"/>
+<area shape="rect" id="node4" href="$classApp.html" title="Object for our application, stores the bulk of the data needed to run the app. " alt="" coords="212,5,257,32"/>
+</map>

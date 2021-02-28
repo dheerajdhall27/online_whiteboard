@@ -1,0 +1,5 @@
+<map id="include/networking/NetworkManagerFactory.hpp" name="include/networking/NetworkManagerFactory.hpp">
+<area shape="rect" id="node1" title="A factory for creating network managers." alt="" coords="45,5,241,44"/>
+<area shape="rect" id="node2" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="5,99,102,124"/>
+<area shape="rect" id="node3" href="$_network_manager_factory_8cpp.html" title="Factory to create new servers and clients depending on the entity type input." alt="" coords="126,92,339,131"/>
+</map>

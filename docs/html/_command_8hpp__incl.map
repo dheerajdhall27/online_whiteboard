@@ -1,0 +1,5 @@
+<map id="include/command/Command.hpp" name="include/command/Command.hpp">
+<area shape="rect" id="node1" title="Represents an actionable command by the user." alt="" coords="5,5,222,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="18,79,71,104"/>
+<area shape="rect" id="node3" href="$_command_description_8hpp.html" title="Enum class to represent the type of command by its description." alt="" coords="95,79,271,104"/>
+</map>

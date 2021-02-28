@@ -1,0 +1,11 @@
+<map id="include/gui/GUI.hpp" name="include/gui/GUI.hpp">
+<area shape="rect" id="node1" title="Class that represents the GUI of our program." alt="" coords="171,5,310,31"/>
+<area shape="rect" id="node2" href="$_g_u_i_8cpp.html" title="Class that represents the GUI of our program." alt="" coords="5,159,119,184"/>
+<area shape="rect" id="node3" href="$_app_event_handler_8hpp.html" title="EventHandler object, used for handling keyboard and mouse input and other events." alt="" coords="142,159,339,184"/>
+<area shape="rect" id="node6" href="$_global_8hpp.html" title="Class for Global Variables." alt="" coords="309,79,441,104"/>
+<area shape="rect" id="node4" href="$_app_event_handler_8cpp.html" title="Implementation of AppEventHandler.hpp." alt="" coords="76,239,248,264"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="272,239,369,264"/>
+<area shape="rect" id="node7" href="$_app_8cpp.html" title="Main class for program." alt="" coords="363,159,454,184"/>
+<area shape="rect" id="node8" href="$_draw_diagonal_line_command_8cpp.html" title="DrawDiagonalLineCommand implementation, command object for drawing with a diagonal line brush." alt="" coords="478,152,667,191"/>
+<area shape="rect" id="node9" href="$_draw_rect_command_8cpp.html" title="DrawRectCommand implementation, a command for drawing with the rectangle brush." alt="" coords="691,159,942,184"/>
+</map>

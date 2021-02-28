@@ -1,0 +1,6 @@
+<map id="include/command/DataPacket.hpp" name="include/command/DataPacket.hpp">
+<area shape="rect" id="node1" title="Object for the data packet that is sent from each client drawing on the canvas." alt="" coords="124,5,349,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,79,145,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="169,79,304,104"/>
+<area shape="rect" id="node4" href="$_brush_type_8hpp.html" title="Enum variables for classifying different brush types." alt="" coords="329,79,502,104"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="include/command/DrawCommand.hpp" name="include/command/DrawCommand.hpp">
+<area shape="rect" id="node3" href="$AbstractCommand_8hpp.html" title="Object for the AbstractCommand command, which inherits from Command class and provides code that is c..." alt="" coords="670,80,887,107"/>
+<area shape="rect" id="node15" href="$CommandDescription_8hpp.html" title="Enum class to represent the type of command by its description. " alt="" coords="924,304,1097,331"/>
+<area shape="rect" id="node17" href="$Pixel_8hpp.html" title="Object for each pixel that is drawn on the canvas. " alt="" coords="887,155,963,181"/>
+<area shape="rect" id="node4" href="$App_8hpp.html" title="App class interface. " alt="" coords="743,155,814,181"/>
+<area shape="rect" id="node14" href="$Command_8hpp.html" title="Represents an actionable command by the user. " alt="" coords="24,229,192,256"/>
+<area shape="rect" id="node16" href="$BrushType_8hpp.html" title="Enum variables for classifying different brush types. " alt="" coords="693,229,864,256"/>
+</map>

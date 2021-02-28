@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_abstract_network_manager_entity.html" title="Abstract class for server and client entity to extend to." alt="" coords="5,31,210,56"/>
+<area shape="rect" id="node2" href="$class_client.html" title="Object for clients that are connected to the applicaiton." alt="" coords="261,5,316,31"/>
+<area shape="rect" id="node3" href="$class_server.html" title="Object for the server entity that each client connects to." alt="" coords="258,55,319,80"/>
+</map>

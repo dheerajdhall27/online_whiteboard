@@ -1,0 +1,7 @@
+<map id="include/command/DataPacket.hpp" name="include/command/DataPacket.hpp">
+<area shape="rect" id="node1" title="Object for the data packet that is sent from each client drawing on the canvas." alt="" coords="103,5,328,31"/>
+<area shape="rect" id="node2" href="$_data_packet_8cpp.html" title="Implementation of DataPacket.hpp." alt="" coords="5,79,205,104"/>
+<area shape="rect" id="node3" href="$_app_event_handler_8hpp.html" title="EventHandler object, used for handling keyboard and mouse input and other events." alt="" coords="229,79,426,104"/>
+<area shape="rect" id="node4" href="$_app_event_handler_8cpp.html" title="Implementation of AppEventHandler.hpp." alt="" coords="162,152,333,177"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="358,152,455,177"/>
+</map>

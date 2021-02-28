@@ -1,0 +1,5 @@
+<map id="include/App.hpp" name="include/App.hpp">
+<area shape="rect" id="node11" href="$Command_8hpp.html" title="Represents an actionable command by the user. " alt="" coords="1419,80,1587,107"/>
+<area shape="rect" id="node14" href="$BrushType_8hpp.html" title="Enum variables for classifying different brush types. " alt="" coords="1611,80,1781,107"/>
+<area shape="rect" id="node13" href="$CommandDescription_8hpp.html" title="Enum class to represent the type of command by its description. " alt="" coords="1485,155,1659,181"/>
+</map>

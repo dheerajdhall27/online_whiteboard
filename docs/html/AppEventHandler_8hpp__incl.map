@@ -1,0 +1,20 @@
+<map id="include/AppEventHandler.hpp" name="include/AppEventHandler.hpp">
+<area shape="rect" id="node4" href="$ClientMessageType_8hpp.html" title="Enum variables for classifying client&#39;s messages. " alt="" coords="2933,80,3109,121"/>
+<area shape="rect" id="node5" href="$App_8hpp.html" title="App class interface. " alt="" coords="1683,259,1754,285"/>
+<area shape="rect" id="node16" href="$CommandDescription_8hpp.html" title="Enum class to represent the type of command by its description. " alt="" coords="2401,408,2575,435"/>
+<area shape="rect" id="node17" href="$BrushType_8hpp.html" title="Enum variables for classifying different brush types. " alt="" coords="680,333,851,360"/>
+<area shape="rect" id="node18" href="$Global_8hpp.html" title="Class for Global Variables. " alt="" coords="3134,87,3218,114"/>
+<area shape="rect" id="node19" href="$AbstractNetworkManagerEntity_8hpp.html" title="Abstract class for server and client entity to extend to. " alt="" coords="5,169,192,211"/>
+<area shape="rect" id="node20" href="$DrawCommand_8hpp.html" title="Drawing actions interface. " alt="" coords="1974,87,2173,114"/>
+<area shape="rect" id="node23" href="$DrawDiagonalLineCommand_8hpp.html" title="Object for the DrawDiagonalLineCommand command, which inherits from AbstractCommand class..." alt="" coords="1448,80,1637,121"/>
+<area shape="rect" id="node24" href="$DataPacket_8hpp.html" title="Object for the data packet that is sent from each client drawing on the canvas. " alt="" coords="707,259,885,285"/>
+<area shape="rect" id="node25" href="$DrawHeartCommand_8hpp.html" title="Object for the DrawHeartCommand command, which inherits from AbstractCommand class. " alt="" coords="369,87,599,114"/>
+<area shape="rect" id="node26" href="$DrawSquareCommand_8hpp.html" title="Class for Drawing a Square. " alt="" coords="624,87,864,114"/>
+<area shape="rect" id="node27" href="$DrawSprayPaintCommand_8hpp.html" title="Object for the DrawSprayPaintCommand command, which inherits from AbstractCommand class..." alt="" coords="2211,87,2474,114"/>
+<area shape="rect" id="node29" href="$DrawRectCommand_8hpp.html" title="Object for the DrawRectCommand command, which inherits from AbstractCommand class. " alt="" coords="1723,87,1949,114"/>
+<area shape="rect" id="node30" href="$DrawCircleCommand_8hpp.html" title="Object for the DrawCircleCommand command, which inherits from AbstractCommand class. " alt="" coords="2505,87,2738,114"/>
+<area shape="rect" id="node31" href="$GUI_8hpp.html" title="gui/GUI.hpp" alt="" coords="1081,259,1173,285"/>
+<area shape="rect" id="node14" href="$Command_8hpp.html" title="Represents an actionable command by the user. " alt="" coords="2051,333,2219,360"/>
+<area shape="rect" id="node21" href="$AbstractCommand_8hpp.html" title="Object for the AbstractCommand command, which inherits from Command class and provides code that is c..." alt="" coords="1825,177,2042,203"/>
+<area shape="rect" id="node22" href="$Pixel_8hpp.html" title="Object for each pixel that is drawn on the canvas. " alt="" coords="1583,259,1659,285"/>
+</map>

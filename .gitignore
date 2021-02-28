@@ -1,0 +1,11 @@
+# gitignore file for the paint App
+*.[o]
+*.[out]
+*.[app]
+*.[exe]
+*.[so]
+*.[dylib]
+*.[dll]
+.idea
+cmake-build-debug
+bin

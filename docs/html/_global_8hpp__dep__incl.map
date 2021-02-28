@@ -1,0 +1,10 @@
+<map id="include/Global.hpp" name="include/Global.hpp">
+<area shape="rect" id="node1" title="Class for Global Variables." alt="" coords="393,5,525,31"/>
+<area shape="rect" id="node2" href="$_app_8cpp.html" title="Main class for program." alt="" coords="5,85,97,111"/>
+<area shape="rect" id="node3" href="$_draw_diagonal_line_command_8cpp.html" title="DrawDiagonalLineCommand implementation, command object for drawing with a diagonal line brush." alt="" coords="121,79,310,117"/>
+<area shape="rect" id="node4" href="$_draw_rect_command_8cpp.html" title="DrawRectCommand implementation, a command for drawing with the rectangle brush." alt="" coords="334,85,584,111"/>
+<area shape="rect" id="node5" href="$_g_u_i_8cpp.html" title="Class that represents the GUI of our program." alt="" coords="608,85,721,111"/>
+<area shape="rect" id="node6" href="$_app_event_handler_8hpp.html" title="EventHandler object, used for handling keyboard and mouse input and other events." alt="" coords="745,85,942,111"/>
+<area shape="rect" id="node7" href="$_app_event_handler_8cpp.html" title="Implementation of AppEventHandler.hpp." alt="" coords="677,165,849,191"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="873,165,970,191"/>
+</map>

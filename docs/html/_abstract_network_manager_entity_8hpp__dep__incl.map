@@ -1,0 +1,12 @@
+<map id="include/networking/AbstractNetworkManagerEntity.hpp" name="include/networking/AbstractNetworkManagerEntity.hpp">
+<area shape="rect" id="node1" title="Abstract class for server and client entity to extend to." alt="" coords="268,5,501,44"/>
+<area shape="rect" id="node2" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="201,185,298,211"/>
+<area shape="rect" id="node3" href="$_app_event_handler_8hpp.html" title="EventHandler object, used for handling keyboard and mouse input and other events." alt="" coords="15,99,212,124"/>
+<area shape="rect" id="node5" href="$_client_8hpp.html" title="Class that represents the client for networking." alt="" coords="507,92,638,131"/>
+<area shape="rect" id="node8" href="$_network_manager_factory_8hpp.html" title="A factory for creating network managers." alt="" coords="287,92,483,131"/>
+<area shape="rect" id="node9" href="$_server_8hpp.html" title="Object for the server entity that each client connects to." alt="" coords="663,92,794,131"/>
+<area shape="rect" id="node4" href="$_app_event_handler_8cpp.html" title="Implementation of AppEventHandler.hpp." alt="" coords="5,185,177,211"/>
+<area shape="rect" id="node6" href="$_client_8cpp.html" title="Class that represents the client for networking." alt="" coords="322,185,492,211"/>
+<area shape="rect" id="node7" href="$_network_manager_factory_8cpp.html" title="Factory to create new servers and clients depending on the entity type input." alt="" coords="517,179,729,217"/>
+<area shape="rect" id="node10" href="$_server_8cpp.html" title="Constructs the Server and initializes the member variables." alt="" coords="753,185,928,211"/>
+</map>

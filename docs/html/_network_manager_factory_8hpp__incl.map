@@ -1,0 +1,6 @@
+<map id="include/networking/NetworkManagerFactory.hpp" name="include/networking/NetworkManagerFactory.hpp">
+<area shape="rect" id="node1" title="A factory for creating network managers." alt="" coords="132,5,328,44"/>
+<area shape="rect" id="node2" href="$_abstract_network_manager_entity_8hpp.html" title="Abstract class for server and client entity to extend to." alt="" coords="5,92,235,117"/>
+<area shape="rect" id="node4" href="$_network_entity_type_8hpp.html" title="Enum for entity types." alt="" coords="260,92,418,117"/>
+<area shape="rect" id="node3" title=" " alt="" coords="53,165,188,191"/>
+</map>

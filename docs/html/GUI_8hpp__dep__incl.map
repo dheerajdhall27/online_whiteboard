@@ -1,0 +1,6 @@
+<map id="include/gui/GUI.hpp" name="include/gui/GUI.hpp">
+<area shape="rect" id="node2" href="$GUI_8cpp.html" title="Class that represents the GUI of our program. " alt="" coords="5,80,120,107"/>
+<area shape="rect" id="node3" href="$AppEventHandler_8hpp.html" title="EventHandler object, used for handling keyboard and mouse input and other events. ..." alt="" coords="144,80,339,107"/>
+<area shape="rect" id="node4" href="$AppEventHandler_8cpp.html" title="Implementation of AppEventHandler.hpp. " alt="" coords="76,155,247,181"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Entry point into the program. " alt="" coords="271,155,369,181"/>
+</map>

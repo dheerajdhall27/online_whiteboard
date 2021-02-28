@@ -1,0 +1,4 @@
+<map id="DataPacket" name="DataPacket">
+<area shape="rect" id="node1" title="Object for the data packet that is sent from each client drawing on the canvas." alt="" coords="5,79,96,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="11,5,90,31"/>
+</map>

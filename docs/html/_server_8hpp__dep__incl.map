@@ -1,0 +1,5 @@
+<map id="include/networking/Server.hpp" name="include/networking/Server.hpp">
+<area shape="rect" id="node1" title="Object for the server entity that each client connects to." alt="" coords="154,5,285,44"/>
+<area shape="rect" id="node2" href="$_network_manager_factory_8cpp.html" title="Factory to create new servers and clients depending on the entity type input." alt="" coords="5,92,218,131"/>
+<area shape="rect" id="node3" href="$_server_8cpp.html" title="Constructs the Server and initializes the member variables." alt="" coords="242,99,416,124"/>
+</map>

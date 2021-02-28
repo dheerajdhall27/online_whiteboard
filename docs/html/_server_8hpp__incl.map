@@ -1,0 +1,10 @@
+<map id="include/networking/Server.hpp" name="include/networking/Server.hpp">
+<area shape="rect" id="node1" title="Object for the server entity that each client connects to." alt="" coords="170,5,302,44"/>
+<area shape="rect" id="node2" title=" " alt="" coords="164,165,300,191"/>
+<area shape="rect" id="node3" title=" " alt="" coords="27,92,99,117"/>
+<area shape="rect" id="node4" title=" " alt="" coords="123,92,184,117"/>
+<area shape="rect" id="node5" title=" " alt="" coords="207,92,265,117"/>
+<area shape="rect" id="node6" title=" " alt="" coords="289,92,336,117"/>
+<area shape="rect" id="node7" href="$_abstract_network_manager_entity_8hpp.html" title="Abstract class for server and client entity to extend to." alt="" coords="360,92,590,117"/>
+<area shape="rect" id="node8" href="$_client_message_type_8hpp.html" title="Enum variables for classifying client&#39;s messages." alt="" coords="614,92,778,117"/>
+</map>

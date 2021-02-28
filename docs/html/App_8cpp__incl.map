@@ -1,0 +1,7 @@
+<map id="src/App.cpp" name="src/App.cpp">
+<area shape="rect" id="node8" href="$App_8hpp.html" title="App class interface. " alt="" coords="805,80,875,107"/>
+<area shape="rect" id="node17" href="$Global_8hpp.html" title="Class for Global Variables. " alt="" coords="989,80,1073,107"/>
+<area shape="rect" id="node13" href="$Command_8hpp.html" title="Represents an actionable command by the user. " alt="" coords="1019,155,1187,181"/>
+<area shape="rect" id="node16" href="$BrushType_8hpp.html" title="Enum variables for classifying different brush types. " alt="" coords="1211,155,1381,181"/>
+<area shape="rect" id="node15" href="$CommandDescription_8hpp.html" title="Enum class to represent the type of command by its description. " alt="" coords="1085,229,1259,256"/>
+</map>

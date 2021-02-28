@@ -1,0 +1,7 @@
+<map id="include/command/DrawRectCommand.hpp" name="include/command/DrawRectCommand.hpp">
+<area shape="rect" id="node1" title="Object for the DrawRectCommand command, which inherits from AbstractCommand class." alt="" coords="160,5,349,44"/>
+<area shape="rect" id="node2" href="$_draw_rect_command_8cpp.html" title="DrawRectCommand implementation, a command for drawing with the rectangle brush." alt="" coords="5,92,256,117"/>
+<area shape="rect" id="node3" href="$_app_event_handler_8hpp.html" title="EventHandler object, used for handling keyboard and mouse input and other events." alt="" coords="280,92,477,117"/>
+<area shape="rect" id="node4" href="$_app_event_handler_8cpp.html" title="Implementation of AppEventHandler.hpp." alt="" coords="213,165,384,191"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="409,165,506,191"/>
+</map>

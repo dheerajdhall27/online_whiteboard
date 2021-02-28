@@ -1,0 +1,11 @@
+<map id="include/networking/ClientMessageType.hpp" name="include/networking/ClientMessageType.hpp">
+<area shape="rect" id="node1" title="Enum variables for classifying client&#39;s messages." alt="" coords="369,5,537,44"/>
+<area shape="rect" id="node2" href="$_app_event_handler_8hpp.html" title="EventHandler object, used for handling keyboard and mouse input and other events." alt="" coords="151,99,348,124"/>
+<area shape="rect" id="node5" href="$_client_8hpp.html" title="Class that represents the client for networking." alt="" coords="387,92,518,131"/>
+<area shape="rect" id="node8" href="$_server_8hpp.html" title="Object for the server entity that each client connects to." alt="" coords="557,92,689,131"/>
+<area shape="rect" id="node3" href="$_app_event_handler_8cpp.html" title="Implementation of AppEventHandler.hpp." alt="" coords="5,185,177,211"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="201,185,298,211"/>
+<area shape="rect" id="node6" href="$_client_8cpp.html" title="Class that represents the client for networking." alt="" coords="322,185,492,211"/>
+<area shape="rect" id="node7" href="$_network_manager_factory_8cpp.html" title="Factory to create new servers and clients depending on the entity type input." alt="" coords="517,179,729,217"/>
+<area shape="rect" id="node9" href="$_server_8cpp.html" title="Constructs the Server and initializes the member variables." alt="" coords="753,185,928,211"/>
+</map>

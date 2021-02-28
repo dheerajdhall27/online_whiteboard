@@ -1,0 +1,6 @@
+<map id="include/networking/NetworkEntityType.hpp" name="include/networking/NetworkEntityType.hpp">
+<area shape="rect" id="node1" title="Enum for entity types." alt="" coords="39,5,202,44"/>
+<area shape="rect" id="node2" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="5,185,102,211"/>
+<area shape="rect" id="node3" href="$_network_manager_factory_8hpp.html" title="A factory for creating network managers." alt="" coords="90,92,286,131"/>
+<area shape="rect" id="node4" href="$_network_manager_factory_8cpp.html" title="Factory to create new servers and clients depending on the entity type input." alt="" coords="126,179,339,217"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AbstractNetworkManagerEntity" name="AbstractNetworkManagerEntity">
+<area shape="rect" id="node2" href="$classClient.html" title="Object for clients that are connected to the applicaiton. " alt="" coords="38,80,94,107"/>
+<area shape="rect" id="node3" href="$classServer.html" title="Object for the server entity that each client connects to. " alt="" coords="119,80,179,107"/>
+</map>

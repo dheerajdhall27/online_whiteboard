@@ -1,0 +1,7 @@
+<map id="include/command/DrawHeartCommand.hpp" name="include/command/DrawHeartCommand.hpp">
+<area shape="rect" id="node1" title="Object for the DrawHeartCommand command, which inherits from AbstractCommand class." alt="" coords="162,5,355,44"/>
+<area shape="rect" id="node2" href="$_draw_heart_command_8cpp.html" title="DrawHeartCommand implementation, a command for drawing with the heart brush." alt="" coords="5,92,261,117"/>
+<area shape="rect" id="node3" href="$_app_event_handler_8hpp.html" title="EventHandler object, used for handling keyboard and mouse input and other events." alt="" coords="285,92,482,117"/>
+<area shape="rect" id="node4" href="$_app_event_handler_8cpp.html" title="Implementation of AppEventHandler.hpp." alt="" coords="218,165,390,191"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Entry point into the program." alt="" coords="414,165,511,191"/>
+</map>

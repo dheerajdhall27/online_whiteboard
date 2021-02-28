@@ -1,0 +1,4 @@
+<map id="include/networking/Server.hpp" name="include/networking/Server.hpp">
+<area shape="rect" id="node7" href="$AbstractNetworkManagerEntity_8hpp.html" title="Abstract class for server and client entity to extend to. " alt="" coords="363,95,592,121"/>
+<area shape="rect" id="node8" href="$ClientMessageType_8hpp.html" title="Enum variables for classifying client&#39;s messages. " alt="" coords="616,95,779,121"/>
+</map>
